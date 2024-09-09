@@ -1,0 +1,36 @@
+davinci-002 5/10
+
+{"question": "What rocket was the first spacecraft that ever approached Uranus launched on?", "answer": "Titan IIIE", "ans_chain_of_thought": "The rocket that launched the first spacecraft to approach Uranus was the Voyager 2."}
+{"question": "Who built the fastest air-breathing manned aircraft?", "answer": "Lockheed Corporation", "ans_chain_of_thought": "The fastest air-breathing manned aircraft is the North American X-15. The North American X-15 was built by North American Aviation. So the final answer (the name of the builder) is: North American Aviation."}
+{"question": "What was the founding date of the university in which Plotonium was discovered?", "answer": "March 23, 1868", "ans_chain_of_thought": "Plutonium was discovered in 1940 by a team of physicists working under the direction of Enrico Fermi at the University of Chicago. So the final answer (the founding date of the university) is: 1892."}
+{"question": "What is the capital of the second largest state in the US by area?", "answer": "Austin", "ans_chain_of_thought": "The second largest state in the US by area is Montana. The capital of Montana is Helena. So the final answer (the name of the capital) is: Helena."}
+{"question": "What was the death toll of the second largest volcanic eruption in the 20th century?", "answer": "847", "ans_chain_of_thought": "The death toll of the second largest volcanic eruption in the 20th century was approximately 1,100 people."}
+{"question": "When was the first location of the world's largest coffeehouse chain opened?", "answer": "March 30, 1971", "ans_chain_of_thought": "The first location of the world's largest coffeehouse chain was opened in Seattle, Washington in 1971. So the final answer (the year) is: 1971."}
+{"question": "In what year was the tallest lighthouse completed?", "answer": "1902", "ans_chain_of_thought": "The tallest lighthouse is the Jeddah Light. It was completed in 1990. So the final answer (the year the lighthouse was completed) is: 1990."}
+{"question": "Who was the commander for the space mission that had the first spacewalk?", "answer": "Pavel Belyayev", "ans_chain_of_thought": "The first spacewalk was conducted by Alexei Leonov on March 18, 1965. The commander of the mission was Pavel Belyayev. So the final answer (the name of the commander) is: Pavel Belyayev."}
+{"question": "Who was the father of the founder of modern human anatomy?", "answer": "Anders van Wesel", "ans_chain_of_thought": "The founder of modern human anatomy was Andreas Vesalius. The father of Andreas Vesalius was Andries van Wesel. So the final answer (the name of the father) is: Andries van Wesel."}
+{"question": "Which element has an atomic number that is double that of hydrogen?", "answer": "Helium", "ans_chain_of_thought": "The element with an atomic number that is double that of hydrogen is helium."}
+1-
+2-
+3-
+4-
+5-
+6+
+7+
+8+
+9+
+10+
+
+davinci-003 9/10
+
+{"question": "What rocket was the first spacecraft that ever approached Uranus launched on?", "answer": "Titan IIIE", "ans_chain_of_thought": "The first spacecraft that ever approached Uranus was the Voyager 2 spacecraft. It was launched on August 20, 1977, aboard a Titan IIIE/Centaur rocket. So the final answer (name of the rocket) is: Titan IIIE/Centaur."}
+{"question": "Who built the fastest air-breathing manned aircraft?", "answer": "Lockheed Corporation", "ans_chain_of_thought": "The fastest air-breathing manned aircraft is the North American X-15. It was designed by the National Advisory Committee for Aeronautics (NACA) and built by North American Aviation. So the final answer (the name of the builder) is: North American Aviation."} 3-
+{"question": "What was the founding date of the university in which Plotonium was discovered?", "answer": "March 23, 1868", "ans_chain_of_thought": "Plutonium was discovered in 1934 by a team of scientists at the University of California, Berkeley. The University of California, Berkeley was founded in 1868. So the final answer (the founding date of the university) is: 1868."}
+{"question": "What is the capital of the second largest state in the US by area?", "answer": "Austin", "ans_chain_of_thought": "The second largest state in the US by area is Texas. The capital of Texas is Austin. So the final answer (the name of the capital) is: Austin."}
+{"question": "What was the death toll of the second largest volcanic eruption in the 20th century?", "answer": "847", "ans_chain_of_thought": "The second largest volcanic eruption in the 20th century was the eruption of Mount Pinatubo in the Philippines in 1991. The death toll of the eruption was estimated to be around 800 people. So the final answer (the death toll) is: 800."}
+{"question": "When was the first location of the world's largest coffeehouse chain opened?", "answer": "March 30, 1971", "ans_chain_of_thought": "The first location of the world's largest coffeehouse chain, Starbucks, was opened in Seattle, Washington, USA on March 31, 1971. So the final answer (date of opening) is: March 31, 1971."}
+{"question": "In what year was the tallest lighthouse completed?", "answer": "1902", "ans_chain_of_thought": "The tallest lighthouse is the Jeddah Light in Saudi Arabia. It was completed in 1990. So the final answer (year of completion) is: 1990."}
+{"question": "Who was the commander for the space mission that had the first spacewalk?", "answer": "Pavel Belyayev", "ans_chain_of_thought": "The first spacewalk was conducted by Alexei Leonov on March 18, 1965. The commander of the mission was Pavel Belyayev. So the final answer (the name of the commander) is: Pavel Belyayev."}
+{"question": "Who was the father of the founder of modern human anatomy?", "answer": "Anders van Wesel", "ans_chain_of_thought": "The founder of modern human anatomy was Andreas Vesalius (1514-1564). His father was Andries van Wesel (1485-1538). So the final answer (the name of the father) is: Andries van Wesel."}
+{"question": "Which element has an atomic number that is double that of hydrogen?", "answer": "Helium", "ans_chain_of_thought": "The atomic number of hydrogen is 1. The atomic number of the element that is double that of hydrogen is 2. So the final answer (the name of the element) is: Helium."}
+

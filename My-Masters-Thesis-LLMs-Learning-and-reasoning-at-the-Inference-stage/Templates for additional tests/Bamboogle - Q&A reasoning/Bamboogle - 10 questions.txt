@@ -1,0 +1,31 @@
+1 =========================================================================
+Question: What rocket was the first spacecraft that ever approached Uranus launched on?
+Answer:
+2 =========================================================================
+Question: Who built the fastest air-breathing manned aircraft?
+Answer:
+3 =========================================================================
+Question: What was the founding date of the university in which Plutonium was discovered?
+Answer:
+4 =========================================================================
+Question: What is the capital of the second largest state in the US by area?
+Answer:
+5 =========================================================================
+Question: What was the death toll of the second largest volcanic eruption in the 20th century?
+Answer:
+6 =========================================================================
+Question: When was the first location of the world's largest coffeehouse chain opened?
+Answer:
+7 =========================================================================
+Question: In what year was the tallest lighthouse completed?
+Answer:
+8 =========================================================================
+Question: Who was the commander for the space mission that had the first spacewalk?
+Answer:
+9 =========================================================================
+Question: Who was the father of the founder of modern human anatomy?
+Answer:
+10 =========================================================================
+Question: Which element has an atomic number that is double that of hydrogen?
+Answer:
+

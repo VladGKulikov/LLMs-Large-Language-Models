@@ -1,0 +1,65 @@
+ChatGPT 4.0
+
+====
+
+Q: What rocket was the first spacecraft that ever approached Uranus launched on?
+A:
+
+1) "answer": "Titan IIIE"
+
+===
+
+Q: Who built the fastest air-breathing manned aircraft?
+A:
+
+2) "answer": "Lockheed Corporation"
+
+===
+
+Q: What was the founding date of the university in which Plutonium was discovered?", 
+A:
+
+3) "answer": "March 23, 1868"
+
+===
+
+Q: What is the capital of the second largest state in the US by area?", 
+A:
+
+4) "answer": "Austin"
+
+===
+
+Q: What was the death toll of the second largest volcanic eruption in the 20th century?
+A:
+
+5) "answer": "847"
+===
+
+Q: When was the first location of the world's largest coffeehouse chain opened?
+A:
+
+6) "answer": "March 30, 1971"
+===
+Q: In what year was the tallest lighthouse completed?
+A:
+
+7) "answer": "1902" | more precisely - 1990 
+===
+
+Q: Who was the commander for the space mission that had the first spacewalk?
+A:
+
+8) "answer": "Pavel Belyayev"
+===
+
+Q: Who was the father of the founder of modern human anatomy?
+A:
+
+9) "answer": "Anders van Wesel" | "Andreas Vesalius"
+===
+
+Q: Which element has an atomic number that is double that of hydrogen?
+A:
+
+10) "answer": "Helium"

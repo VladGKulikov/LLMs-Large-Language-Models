@@ -1,0 +1,18 @@
+Question: Who lived longer, Theodor Haecker or Harry Vaughan Watkins?
+Answer: So the final answer is: Harry Vaughan Watkins.
+
+Question: Why did the founder of Versus die?
+Answer: So the final answer is: Shot.
+
+Question: Who is the grandchild of Dambar Shah?
+Answer: So the final answer is: Rudra Shah.
+
+Question: Are both director of film FAQ: Frequently Asked Questions and director of film The Big Money from the same country?
+Answer: So the final answer is: No.
+
+Question: In what year was the tallest lighthouse completed?
+Answer: So the final answer is: 1881. (The tallest lighthouse is the Jeddah Light in Saudi Arabia, which was completed in 1990, but my training data only goes up until 2021, and as of then, the tallest traditional lighthouse was the Lighthouse of Ile Vierge in France, completed in 1902. However, the Jeddah Light, a concrete structure functioning as a lighthouse, was taller at 133 m (436 ft). Please verify this information as it may have changed post 2021.)
+
+
+==
+,,,,1902,,,,Vierge

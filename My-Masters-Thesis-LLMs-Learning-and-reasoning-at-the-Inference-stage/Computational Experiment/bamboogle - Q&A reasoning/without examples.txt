@@ -1,0 +1,139 @@
+ChatGPT 4.0
+
+====
+
+Q: What rocket was the first spacecraft that ever approached Uranus launched on?
+A:
+
+1) "answer": "Titan IIIE"
+
+===
+
+Q: Who built the fastest air-breathing manned aircraft?
+A:
+
+2) "answer": "Lockheed Corporation"
+
+===
+
+Q: What was the founding date of the university in which Plutonium was discovered?", 
+A:
+
+3) "answer": "March 23, 1868"
+
+===
+
+Q: What is the capital of the second largest state in the US by area?", 
+A:
+
+4) "answer": "Austin"
+
+===
+
+Q: What was the death toll of the second largest volcanic eruption in the 20th century?
+A:
+
+5) "answer": "847"
+===
+
+Q: When was the first location of the world's largest coffeehouse chain opened?
+A:
+
+6) "answer": "March 30, 1971"
+===
+Q: In what year was the tallest lighthouse completed?
+A:
+
+7) "answer": "1902" | more precisely - 1990 
+===
+
+Q: Who was the commander for the space mission that had the first spacewalk?
+A:
+
+8) "answer": "Pavel Belyayev"
+===
+
+Q: Who was the father of the founder of modern human anatomy?
+A:
+
+9) "answer": "Anders van Wesel" | "Andreas Vesalius"
+===
+
+Q: Which element has an atomic number that is double that of hydrogen?
+A:
+
+10) "answer": "Helium"
+
+
+================================================================================
+BloomZ 176B 4/10
+
+
+
+1) A: The Pioneer 11 spacecraft was launched on the Pegasus rocket.
+
+2)A: The Wright Brothers.
+
+3)A: The answer is "1945". The question is a bit ambiguous, but I think the answer is correct. The question is asking for the founding date of the university, not the date of the discovery. The discovery was made in 1940, but the university was founded in 1945.
+
+4)A: "ALASKA"
+
+5)A: The second largest volcanic eruption in the 20th century was the eruption of Mount Pinatubo in the Philippines in 1991. The death toll was about 800 people, mostly from the effects of the ash cloud. The eruption was also responsible for a global cooling of about 0.5°C for a few years.
+
+6)A: In 1971, 
+Q: What is the name of the world's largest coffeehouse chain?, 
+A: Starbucks, 
+
+7)A: In the year of the tallest lighthouse completed.
+
+8)A: The commander for the space mission that had the first spacewalk was the Soviet cosmonaut Alexei Leonov.
+
+9)A: Andreas Vesalius
+
+10)A: Helium (He)
+
+1-
+2-
+3-
+4-
+5+
+6+
+7-
+8-
+9+
+10+
+
+================================================================================
+
+ChatGPT4
+
+1) The first spacecraft to approach Uranus was the Voyager 2, which was launched by NASA on August 20, 1977. The spacecraft was launched on a Titan III-E Centaur rocket. Voyager 2 flew by Uranus on January 24, 1986, providing the first (and so far, only) close-up images and scientific data of the planet.
+
+2) The fastest air-breathing manned aircraft, as of my knowledge cutoff in September 2021, is the Lockheed SR-71 "Blackbird." The SR-71 was an advanced, long-range, Mach 3+ strategic reconnaissance aircraft developed by Lockheed's Skunk Works division. It was capable of reaching speeds over 2,190 miles per hour, or Mach 3.3.
+
+3) Plutonium was discovered in 1940 at the University of California, Berkeley. The university was founded on March 23, 1868.
+
+4) The second largest state in the US by area is Texas. The capital of Texas is Austin.
+
+5) The second-largest volcanic eruption of the 20th century occurred on June 15, 1991, when Mount Pinatubo in the Philippines erupted. The eruption was a colossal event that affected global temperatures and had massive local and regional impacts. The official death toll from the eruption and its after-effects is estimated to be around 800 people, primarily from diseases in evacuation centers and from the collapse of buildings due to ash and subsequent typhoon rains. This number, however, can vary depending on the source and how directly a death is attributed to the eruption.
+
+6) The world's largest coffeehouse chain is Starbucks. The first Starbucks location was opened in Seattle, Washington, on March 31, 1971.
+
+7) The tallest lighthouse in the world is the Jeddah Light, located in Jeddah, Saudi Arabia. It stands at approximately 436 feet (133 meters) tall. The construction of the Jeddah Light was completed in 1990.
+
+8) The first human spacewalk was conducted during the mission of Voskhod 2, a Soviet spacecraft, on March 18, 1965. The spacewalk was performed by Alexey Leonov. The commander of the Voskhod 2 mission was Pavel Belyayev.
+
+9) Andreas Vesalius, often considered the founder of modern human anatomy, was born on December 31, 1514, in Brussels, part of the Holy Roman Empire (now in Belgium). His father was Anders van Wesel, who served as an apothecary to the Holy Roman Emperor Charles V. Therefore, Anders van Wesel is the father of the founder of modern human anatomy.
+
+10) The atomic number of an element represents the number of protons it has in its atomic nucleus. Hydrogen has an atomic number of 1. An element with an atomic number double that of hydrogen would have an atomic number of 2. That element is Helium.
+
+1+
+2+
+3+
+4+
+5+
+6+
+7+
+8+
+9+
+10+

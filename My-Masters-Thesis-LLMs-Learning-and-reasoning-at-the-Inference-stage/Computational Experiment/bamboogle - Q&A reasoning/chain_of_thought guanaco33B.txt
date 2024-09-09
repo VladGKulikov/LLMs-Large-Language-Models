@@ -1,0 +1,190 @@
+Question: Who lived longer, Theodor Haecker or Harry Vaughan Watkins?
+Answer: Theodor Haecker was 65 years old when he died. Harry Vaughan Watkins was 69 years old when he died. So the final answer (the name of the person) is: Harry Vaughan Watkins.
+
+Question: Why did the founder of Versus die?
+Answer: Versus was founded by Gianni Versace. Gianni Versace was shot and killed on July 15, 1997. So the final answer (reason of death) is: Shot.
+
+Question: Who is the grandchild of Dambar Shah?
+Answer: Dambar Shah (? - 1645) was the father of Krishna Shah. Rudra Shah was the child of Krishna Shah (? - 1661). So the final answer (the name of the grandchild) is: Rudra Shah.
+
+Question: Are both director of film FAQ: Frequently Asked Questions and director of film The Big Money from the same country?
+Answer: The director of the film FAQ: Frequently Asked Questions is Carlos Atanes. The director of the film The Big Money is John Paddy Carstairs. The nationality of Carlos Atanes is Spanish. The nationality of John Paddy Carstairs is British. Spanish is not equal to British. So the final answer (whether they have the same nationality) is: No.
+
+=======================================================================================
+
+1)
+Question: What rocket was the first spacecraft that ever approached Uranus launched on?
+Answer: 
+
+
+==
+,,,,Titan IIIE,,,,voyager 2
+
+2)
+Question: Who built the fastest air-breathing manned aircraft?
+Answer:
+
+
+==
+,,,,Lockheed Corporation,,,,SR-71
+
+3)
+Question: What was the founding date of the university in which Plutonium was discovered?
+Answer:
+
+
+==
+,,,,"March 23, 1868",,,,"University of California, Berkeley"
+
+4)
+Question: What is the capital of the second largest state in the US by area?
+Answer:
+
+
+==
+,,,,Austin,,,,Texas
+
+5)
+Question: What was the death toll of the second largest volcanic eruption in the 20th century?
+Answer:
+
+
+==
+,,,,847,,,,Pinatubo
+
+6)
+Question: When was the first location of the world's largest coffeehouse chain opened?
+Answer:
+
+
+==
+,,,,30-Mar-71,,,,Starbucks
+
+7)
+Question: In what year was the tallest lighthouse completed?
+Answer:
+
+
+==
+,,,,1902,,,,Vierge
+
+8)
+Question: Who was the commander for the space mission that had the first spacewalk?
+Answer:
+
+
+==
+,,,,Pavel Belyayev,,,,1965
+
+9)
+
+Question: Who was the father of the founder of modern human anatomy?
+Answer:
+
+
+==
+,,,,Anders van Wesel,,,,Andreas Vesalius
+
+10)
+Question: Which element has an atomic number that is double that of hydrogen?
+Answer:
+
+
+==
+,,,,Helium,,,,2
+
+
+=======================================================================================
+https://chat.lmsys.org/  
+https://github.com/artidoro/qlora
+
+quanaco - 33B   - LLaMA33B fine-tuned with QLoRA by UW   10/10
+
+1)
+The first spacecraft that ever approached Uranus was the Voyager 2 spacecraft, which was launched on August 20, 1977, aboard a Titan IIIE/Centaur rocket. The Titan IIIE/Centaur rocket was manufactured by the Glenn Research Center and the Marshall Space Flight Center, both of which are part of NASA.
+
+Voyager 2 was launched from the Kennedy Space Center in Florida, and it was the first spacecraft to visit Uranus and its moons, as well as the only spacecraft to visit both Uranus and Neptune. The mission was a success and provided many important scientific discoveries about these distant worlds.
+
+2)
+The SR-71 Blackbird is a long-range, supersonic strategic reconnaissance aircraft that was operated by the United States Air Force (USAF). It was designed and developed by Lockheed Skunk Works, an advanced development division of the Lockheed Corporation. The SR-71 was capable of Mach 3+ speeds at altitudes up to 85,000 feet and could cover more than 2,000 nautical miles in an hour. It first flew in 1964 and was retired from active service in 1998.
+
+The SR-71 Blackbird was designed as a strategic reconnaissance aircraft to fly over hostile territory at high speeds and altitudes, taking high-resolution photographs and gathering other intelligence data. It was also used for electronic surveillance and as a testbed for new technologies. The SR-71 was powered by two Pratt & Whitney J58 turbofan engines, each with a unique inlet design that allowed the engines to breathe in air from the surrounding air while traveling at high speeds.
+
+The SR-71 Blackbird's airframe was made of titanium and other exotic materials to withstand the extreme heat and stress of high-speed flight. It also had a unique chines design that helped to reduce drag and improve stability at high speeds. The SR-71's systems were highly automated to reduce the workload on the pilot and navigator, and it featured a sophisticated navigation and surveillance system.
+
+The SR-71 Blackbird holds several speed and altitude records, including the record for fastest air-breathing manned aircraft. It could reach a maximum speed of over 2,200 mph (3,540 km/h) and an altitude of over 85,000 feet (25,900 meters). It also holds the record for the fastest transcontinental crossing, having flown from Los Angeles to Washington, D.C. in 64 minutes.
+
+In summary, the SR-71 Blackbird is the fastest air-breathing manned aircraft ever built, with a maximum speed of over 2,200 mph (3,540 km/h) and a range of over
+
+3)
+I'm sorry, but I'm not able to answer your question. You have not provided any context or additional information about what "Plutonium" is referring to. If you could please provide more information, I would be happy to try and help.
+
+If you are looking for information on the discovery of the element Plutonium, it was first synthesized in 1940 by a team of scientists at the University of California, Berkeley led by Glenn T. Seaborg. The element was named after the planet Pluto, which had recently been discovered and was thought to be the threshold of the solar system.
+
+The University of California, Berkeley was founded in 1868, and was one of the first universities in the United States to be established as a public institution. It was chartered in 1868 by the state of California, and has a long and distinguished history of scientific research and innovation.
+
+I hope this information is helpful, and if you have any other questions or need more details, please let me know.
+
+
+4)
+The second largest state in the US by area is Texas. The capital of Texas is Austin. So the final answer (the capital of the second largest state in the US by area) is: Austin
+
+5)
+The second largest volcanic eruption in the 20th century was the Novarupta eruption in Alaska in 1912. The death toll from this eruption was zero, as the area where it occurred was uninhabited at the time.
+
+However, the eruption of Mount Pinatubo in the Philippines in 1991 was the second largest eruption of the 20th century in terms of the volume of magma it ejected. The death toll from this eruption was estimated to be between 350 and 800 people, with many more injured and displaced.
+
+So the final answer (the death toll) is: 350-800.
+
+6)
+The first location of the world's largest coffeehouse chain, Starbucks, was opened in Seattle, Washington, United States on March 30, 1971.
+
+7)
+According to the Guinness World Records' current criteria, the tallest lighthouse is the Jeddah Light, also known as the King Abdullah Lighthouse, in Saudi Arabia. It stands at a height of 133 m (436 ft 4.5 in) and was completed in 2017.
+
+However, the lighthouse with the tallest traditional tower is the Yokohama Marine Tower in Japan, which stands at a height of 106 m (347 ft 10 in) and was completed in 1961.
+
+So the final answer (year of completion) is: 2017 (for the Jeddah Light) or 1961 (for the Yokohama Marine Tower).
+
+8)
+I'm sorry, but the question is a bit unclear. Could you please specify which space mission you're referring to?
+
+Humans sometimes refer to the Vostok 1 mission as the first mission to perform a spacewalk, as it was the first mission to carry a human into space, and it was followed by the Vostok 2 mission, which performed the first spacewalk. However, this is somewhat misleading, as the spacewalk on the Vostok 2 mission was performed automatically by the spacecraft, and no human was involved.
+
+If you're referring to the first human spacewalk, it was performed by Alexei Leonov on the Voskhod 2 mission, and the commander of that mission was Pavel Komarov.
+
+If you're referring to the first spacewalk performed by an American astronaut, it was performed by Edward White on the Gemini 4 mission, and the commander of that mission was James McDivitt.
+
+I hope this helps to clarify the question. Please let me know if you need any further assistance.
+
+9)
+The father of the founder of modern human anatomy was Andreas Vesalius. He was born to his parents, Johannes and Anna Vesalius, in 1514. Johannes was a physician and apothecary who served as the city's pharmacist. Andreas had two siblings, one brother and one sister.
+
+Andreas Vesalius is considered the founder of modern human anatomy as he was the first to accurately describe the human body through dissection and publication of his findings. He was also the first to question the teachings of Galen, a prominent physician and philosopher from the ancient world. Galen's writings had been the basis of medical knowledge for over a thousand years, but Vesalius believed that they were inaccurate and needed to be corrected.
+
+Vesalius' work, "De Humani Corporis Fabrica" (On the Structure of the Human Body), was first published in 1543 and is considered a seminal work in the history of medicine. It was an extensive and detailed description of the human body, based on his own dissections and observations. Vesalius' work was revolutionary in that it provided a more accurate and detailed understanding of human anatomy than had previously existed.
+
+In addition to being a physician and anatomist, Vesalius was also a teacher and a diplomat. He held several positions at prestigious universities, including the University of Padua in Italy. He also served as court physician to the Holy Roman Emperor, Charles V.
+
+Overall, Andreas Vesalius was a remarkable individual who made significant contributions to the field of medicine and the understanding of the human body. His work as a physician, anatomist, and teacher has had a lasting impact on the development of modern medicine and continues to be studied and appreciated today.
+
+I hope this helps to answer your question. Please let me know if you have any further questions or if there is anything else I can help with.
+
+10)
+Hydrogen has an atomic number of 1.
+
+Doubling 1 gives 2.
+
+So the element with an atomic number of 2 is helium.
+
+
+1+
+2+
+3+
+4+
+5+
+6+
+7+
+8+
+9+
+10+

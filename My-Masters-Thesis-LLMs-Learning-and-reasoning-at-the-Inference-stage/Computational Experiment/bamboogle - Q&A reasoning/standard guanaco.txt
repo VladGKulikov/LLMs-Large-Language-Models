@@ -1,0 +1,133 @@
+Question: Who lived longer, Theodor Haecker or Harry Vaughan Watkins?
+Answer: So the final answer is: Harry Vaughan Watkins.
+
+Question: Why did the founder of Versus die?
+Answer: So the final answer is: Shot.
+
+Question: Who is the grandchild of Dambar Shah?
+Answer: So the final answer is: Rudra Shah.
+
+Question: Are both director of film FAQ: Frequently Asked Questions and director of film The Big Money from the same country?
+Answer: So the final answer is: No.
+
+
+
+================================================================================
+
+
+Q: What rocket was the first spacecraft that ever approached Uranus launched on?
+A:
+
+1) "answer": "Titan IIIE"
+
+===
+
+Q: Who built the fastest air-breathing manned aircraft?
+A:
+
+2) "answer": "Lockheed Corporation"
+
+===
+
+Q: What was the founding date of the university in which Plutonium was discovered?" 
+A:
+
+3) "answer": "March 23, 1868"
+
+===
+
+Q: What is the capital of the second largest state in the US by area? 
+A:
+
+4) "answer": "Austin"
+
+===
+
+Q: What was the death toll of the second largest volcanic eruption in the 20th century?
+A:
+
+5) "answer": "847"
+===
+
+Q: When was the first location of the world's largest coffeehouse chain opened?
+A:
+
+6) "answer": "March 30, 1971"
+===
+Q: In what year was the tallest lighthouse completed?
+A:
+
+7) "answer": "1902" | more precisely - 1990 
+===
+
+Q: Who was the commander for the space mission that had the first spacewalk?
+A:
+
+8) "answer": "Pavel Belyayev"
+===
+
+Q: Who was the father of the founder of modern human anatomy?
+A:
+
+9) "answer": "Anders van Wesel" | "Andreas Vesalius"
+===
+
+Q: Which element has an atomic number that is double that of hydrogen?
+A:
+
+10) "answer": "Helium"
+
+=======================================================================================
+https://chat.lmsys.org/  
+https://github.com/artidoro/qlora
+
+guanaco - 33B   - LLaMA33B fine-tuned with QLoRA by UW   5/10
+
+1)
+So the final answer is Voyager 2!
++-
+
+2)
+So the final answer is: Lockheed SR-71 Blackbird.
+
+I hope this was helpful, if you need any further assistance do not hesitate to ask.
+
+3)
+The university in which Plutonium was discovered is the University of California, Berkeley, more specifically the Radiation Laboratory.
+
+The founding date of the University of California, Berkeley was March 23, 1868
+
+4)
+The capital of the second largest state in the US by area is Juneau, Alaska.
+
+5)
+So the final answer is: 15,000.
+
+6)
+So the final answer is: 1912 in Seattle.
+
+Does this output look correct?
+
+7)
+The tallest lighthouse was the Jeddah Light in Jeddah, Saudi Arabia. It was completed in 2017, with a height of 133 meters.
+
+8)
+The commander for the first spacewalk was Alexei Leonov on the Soviet Voskhod 2 mission. The mission launched on March 18, 1965, and Leonov became the first human to exit the spacecraft and perform a spacewalk. The spacewalk lasted 10 minutes and 40 seconds, during which Leonov also completed the first maneuvers in space, such as changing direction and moving backwards.
+
+9)
+9.1. Andreas Vesalius was the founder of modern human anatomy. I do not have information on his father.
+9.2. The father of the founder of modern human anatomy, Andreas Vesalius, was Walther Pit.
+
+10)
+The answer is definitely helium, because it has an atomic number of 2.
+
+1+
+2+
+3+
+4-
+5-
+6-
+7+
+8-
+9-
+10+

@@ -1,0 +1,46 @@
+davinchi-002 3/10
+
+{"question": "What rocket was the first spacecraft that ever approached Uranus launched on?", "answer": "Titan IIIE", "ans_standard": "So the final answer is: Voyager 2."} 
+{"question": "Who built the fastest air-breathing manned aircraft?", "answer": "Lockheed Corporation", "ans_standard": "So the final answer is: Chuck Yeager."}
+{"question": "What was the founding date of the university in which Plotonium was discovered?", "answer": "March 23, 1868", "ans_standard": "So the final answer is: February 8, 1811."}
+{"question": "What is the capital of the second largest state in the US by area?", "answer": "Austin", "ans_standard": "So the final answer is: Phoenix."}
+{"question": "What was the death toll of the second largest volcanic eruption in the 20th century?", "answer": "847", "ans_standard": "So the final answer is: 36,000."}
+{"question": "When was the first location of the world's largest coffeehouse chain opened?", "answer": "March 30, 1971", "ans_standard": "So the final answer is: 1971."}
+{"question": "In what year was the tallest lighthouse completed?", "answer": "1902", "ans_standard": "So the final answer is: 1869."}
+{"question": "Who was the commander for the space mission that had the first spacewalk?", "answer": "Pavel Belyayev", "ans_standard": "So the final answer is: Alexei Leonov."}
+{"question": "Who was the father of the founder of modern human anatomy?", "answer": "Anders van Wesel", "ans_standard": "So the final answer is: Andreas Vesalius."}
+{"question": "Which element has an atomic number that is double that of hydrogen?", "answer": "Helium", "ans_standard": "So the final answer is: Helium."}
+1-
+2-
+3-
+4-
+5-
+6+
+7-
+8-
+9+
+10+
+
+
+davinchi-003 5/10
+
+{"question": "What rocket was the first spacecraft that ever approached Uranus launched on?", "answer": "Titan IIIE", "ans_standard": "So the final answer is: Voyager 2."}
+{"question": "Who built the fastest air-breathing manned aircraft?", "answer": "Lockheed Corporation", "ans_standard": "So the final answer is: The Lockheed SR-71 Blackbird."}
+{"question": "What was the founding date of the university in which Plotonium was discovered?", "answer": "March 23, 1868", "ans_standard": "So the final answer is: February 28, 1898."}
+{"question": "What is the capital of the second largest state in the US by area?", "answer": "Austin", "ans_standard": "So the final answer is: Austin, Texas."}
+{"question": "What was the death toll of the second largest volcanic eruption in the 20th century?", "answer": "847", "ans_standard": "So the final answer is: Approximately 70,000 people."}
+{"question": "When was the first location of the world's largest coffeehouse chain opened?", "answer": "March 30, 1971", "ans_standard": "So the final answer is: 1971."}
+{"question": "In what year was the tallest lighthouse completed?", "answer": "1902", "ans_standard": "So the final answer is: 1869."}
+{"question": "Who was the commander for the space mission that had the first spacewalk?", "answer": "Pavel Belyayev", "ans_standard": "So the final answer is: Alexei Leonov."}
+{"question": "Who was the father of the founder of modern human anatomy?", "answer": "Anders van Wesel", "ans_standard": "So the final answer is: Andreas Vesalius."}
+{"question": "Which element has an atomic number that is double that of hydrogen?", "answer": "Helium", "ans_standard": "So the final answer is: Helium."}
+1-
+2+
+3-
+4+
+5-
+6+
+7-
+8-
+9+
+10+

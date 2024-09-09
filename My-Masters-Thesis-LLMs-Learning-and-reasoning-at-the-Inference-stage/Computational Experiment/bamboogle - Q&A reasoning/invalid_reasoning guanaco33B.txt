@@ -1,0 +1,164 @@
+Question: Who lived longer, Theodor Haecker or Harry Vaughan Watkins?
+Answer: Theodor Haecker wrote an essay, Kierkegaard and the Philosophy of Inwardness in 1913. Harry Vaughan Watkins played his final Wales international against England in January 1906. So the final answer (the name of the person) is: Theodor Haecker.
+
+Question: Why did the founder of Versus die?
+Answer: Versus was a diffusion line of the Italian luxury fashion house Versace, which began in 2009. 2009 is the year American singer Michael Jackson died of acute propofol and benzodiazepine intoxication. So the final answer (reason of death) is: Intoxication.
+
+Question: Who is the grandchild of Dambar Shah?
+Answer: Dambar Shah (? - 1645) was the king of the Gorkha Kingdom. The Gorkha Kingdom was established by Prince Dravya Shah. Dravya Shah has a child named Rudra Shah. So the final answer (the name of the grandchild) is: Rudra Shah.
+
+Question: Are both director of film FAQ: Frequently Asked Questions and director of film The Big Money from the same country?
+Answer: FAQ: Frequently Asked Questions is a feature-length dystopian movie. The Big Money is a 1958 comedy film. Dystopian stories mostly take place in British. Comedy stories mostly happen in Australia. British is not equal to Australia. So the final answer (whether they have the same nationality) is: No.
+
+=======================================================================================
+
+1)
+Question: What rocket was the first spacecraft that ever approached Uranus launched on?
+Answer: 
+
+
+==
+,,,,Titan IIIE,,,,voyager 2
+
+2)
+Question: Who built the fastest air-breathing manned aircraft?
+Answer:
+
+
+==
+,,,,Lockheed Corporation,,,,SR-71
+
+3)
+Question: What was the founding date of the university in which Plutonium was discovered?
+Answer:
+
+
+==
+,,,,"March 23, 1868",,,,"University of California, Berkeley"
+
+4)
+Question: What is the capital of the second largest state in the US by area?
+Answer:
+
+
+==
+,,,,Austin,,,,Texas
+
+5)
+Question: What was the death toll of the second largest volcanic eruption in the 20th century?
+Answer:
+
+
+==
+,,,,847,,,,Pinatubo
+
+6)
+Question: When was the first location of the world's largest coffeehouse chain opened?
+Answer:
+
+
+==
+,,,,30-Mar-71,,,,Starbucks
+
+7)
+Question: In what year was the tallest lighthouse completed?
+Answer:
+
+
+==
+,,,,1902,,,,Vierge
+
+8)
+Question: Who was the commander for the space mission that had the first spacewalk?
+Answer:
+
+
+==
+,,,,Pavel Belyayev,,,,1965
+
+9)
+
+Question: Who was the father of the founder of modern human anatomy?
+Answer:
+
+
+==
+,,,,Anders van Wesel,,,,Andreas Vesalius
+
+10)
+Question: Which element has an atomic number that is double that of hydrogen?
+Answer:
+
+
+==
+,,,,Helium,,,,2
+
+
+=======================================================================================
+https://chat.lmsys.org/  
+https://github.com/artidoro/qlora
+
+quanaco - 33B   - LLaMA33B fine-tuned with QLoRA by UW   8/10
+
+
+1)
+The Voyager 2 spacecraft was the first spacecraft to approach Uranus and relay information back to Earth. The Voyager 2 mission was launched on August 20, 1977, from NASA's Kennedy Space Center in Florida aboard a Titan-Centaur rocket.
+
+2)
+The fastest air-breathing manned aircraft is the Lockheed SR-71 Blackbird. It was designed by a team of engineers at the Lockheed Skunk Works, led by Clarence "Kelly" Johnson. The Blackbird was first flown in 1964 and entered service with the U.S. Air Force in 1966. It remains the world's fastest air-breathing manned aircraft to this day, able to fly at speeds up to Mach 3.2.
+
+3)
+The university in which Plutonium was discovered is the University of California, Berkeley. The University of California, Berkeley was founded on March 23, 1868. Therefore, the founding date of the university was March 23, 1868.
+
+4)
+Juneau
+
+The second largest state in the US by area is Alaska. Juneau is the capital of Alaska.
+
+5)
+The second largest volcanic eruption in the 20th century was the eruption of Mount Pinatubo in the Philippines in June 1991. The death toll is estimated to be around 800. Most of these deaths were due to the pyroclastic flows that swept through the surrounding areas, as well as the subsequent lahars that caused widespread flooding and mudflows. There were also some deaths caused by the ash fallout, which covered a large area and disrupted the local economy.
+
+6)
+Starbucks was founded in 1971 in Seattle, Washington. The first location of the world's largest coffeehouse chain was opened in 1971 in Pike Place Market in Seattle.
+
+I hope that helps. Is there anything else I can assist you with?
+
+7)
+The Pisa Tower is known to be the tallest lighthouse in the world. It is located in Pisa, Italy. The tower took about 177 years to complete. In 1173, the tower construction began. In 1372, the tower was completed. So the final answer (the year of completion) is: 1372.
+
+8)
+The tallest lighthouse is considered to be the Jeddah Light in Saudi Arabia, which stands at 133 meters (436 feet) tall. It was completed in 2017, in the Jeddah Waterfront development.
+
+However, if you're asking about the tallest traditional lighthouse, the Suez Canal Authority Lighthouse in Egypt is considered to be the tallest, standing at 125 meters (410 feet) tall. It was completed in 1965.
+
+So, the final answer (year) is: 1965.
++-
+
+9)
+The father of the founder of modern human anatomy was Andreas Vesalius.
+
+Vesalius was born in Brussels in 1514 and is considered the father of modern human anatomy for his groundbreaking work, "De Humani Corporis Fabrica" ("On the Structure of the Human Body"). He was the son of a successful physician and apothecary, and he followed in his father's footsteps, studying medicine and anatomy at the University of Paris and later at the University of Padua in Italy.
+
+It was at Padua that Vesalius published his masterpiece, "De Humani Corporis Fabrica," which was revolutionary for its time. He was the first to use human cadavers for dissection and accurately depict the human body in anatomical illustrations. His work was the first to correct many of the errors and misconceptions that had been accepted as fact for centuries, and it became the standard text for medical students for the next two centuries.
+
+In addition to his work in anatomy, Vesalius was also a skilled surgeon and physician, and he made important contributions to the understanding of blood circulation and the nervous system. He died in 1564 at the age of 50, while on a voyage to the Holy Land.
+
+10)
+Hydrogen has an atomic number of 1.
+
+Double of 1 is 2.
+
+The element with an atomic number of 2 is helium.
+
+So the final answer (the name of the element) is: Helium.
+
+1+
+2+
+3+
+4-
+5+
+6+
+7-
+8+
+9+
+10+

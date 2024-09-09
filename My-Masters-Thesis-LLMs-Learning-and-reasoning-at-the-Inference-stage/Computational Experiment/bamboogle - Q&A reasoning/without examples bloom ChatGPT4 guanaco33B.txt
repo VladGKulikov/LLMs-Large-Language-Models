@@ -1,0 +1,235 @@
+ChatGPT 4.0
+
+====
+
+Q: What rocket was the first spacecraft that ever approached Uranus launched on?
+A:
+
+1) "answer": "Titan IIIE"
+
+===
+
+Q: Who built the fastest air-breathing manned aircraft?
+A:
+
+2) "answer": "Lockheed Corporation"
+
+===
+
+Q: What was the founding date of the university in which Plutonium was discovered?" 
+A:
+
+3) "answer": "March 23, 1868"
+
+===
+
+Q: What is the capital of the second largest state in the US by area? 
+A:
+
+4) "answer": "Austin"
+
+===
+
+Q: What was the death toll of the second largest volcanic eruption in the 20th century?
+A:
+
+5) "answer": "847"
+===
+
+Q: When was the first location of the world's largest coffeehouse chain opened?
+A:
+
+6) "answer": "March 30, 1971"
+===
+Q: In what year was the tallest lighthouse completed?
+A:
+
+7) "answer": "1902" | more precisely - 1990 
+===
+
+Q: Who was the commander for the space mission that had the first spacewalk?
+A:
+
+8) "answer": "Pavel Belyayev"
+===
+
+Q: Who was the father of the founder of modern human anatomy?
+A:
+
+9) "answer": "Anders van Wesel" | "Andreas Vesalius"
+===
+
+Q: Which element has an atomic number that is double that of hydrogen?
+A:
+
+10) "answer": "Helium"
+
+
+================================================================================
+BloomZ 176B 4/10
+
+
+
+1) A: The Pioneer 11 spacecraft was launched on the Pegasus rocket.
+
+2)A: The Wright Brothers.
+
+3)A: The answer is "1945". The question is a bit ambiguous, but I think the answer is correct. The question is asking for the founding date of the university, not the date of the discovery. The discovery was made in 1940, but the university was founded in 1945.
+
+4)A: "ALASKA"
+
+5)A: The second largest volcanic eruption in the 20th century was the eruption of Mount Pinatubo in the Philippines in 1991. The death toll was about 800 people, mostly from the effects of the ash cloud. The eruption was also responsible for a global cooling of about 0.5°C for a few years.
+
+6)A: In 1971, 
+Q: What is the name of the world's largest coffeehouse chain?, 
+A: Starbucks, 
+
+7)A: In the year of the tallest lighthouse completed.
+
+8)A: The commander for the space mission that had the first spacewalk was the Soviet cosmonaut Alexei Leonov.
+
+9)A: Andreas Vesalius
+
+10)A: Helium (He)
+
+1-
+2-
+3-
+4-
+5+
+6+
+7-
+8-
+9+
+10+
+
+================================================================================
+
+ChatGPT4
+
+1) The first spacecraft to approach Uranus was the Voyager 2, which was launched by NASA on August 20, 1977. The spacecraft was launched on a Titan III-E Centaur rocket. Voyager 2 flew by Uranus on January 24, 1986, providing the first (and so far, only) close-up images and scientific data of the planet.
+
+2) The fastest air-breathing manned aircraft, as of my knowledge cutoff in September 2021, is the Lockheed SR-71 "Blackbird." The SR-71 was an advanced, long-range, Mach 3+ strategic reconnaissance aircraft developed by Lockheed's Skunk Works division. It was capable of reaching speeds over 2,190 miles per hour, or Mach 3.3.
+
+3) Plutonium was discovered in 1940 at the University of California, Berkeley. The university was founded on March 23, 1868.
+
+4) The second largest state in the US by area is Texas. The capital of Texas is Austin.
+
+5) The second-largest volcanic eruption of the 20th century occurred on June 15, 1991, when Mount Pinatubo in the Philippines erupted. The eruption was a colossal event that affected global temperatures and had massive local and regional impacts. The official death toll from the eruption and its after-effects is estimated to be around 800 people, primarily from diseases in evacuation centers and from the collapse of buildings due to ash and subsequent typhoon rains. This number, however, can vary depending on the source and how directly a death is attributed to the eruption.
+
+6) The world's largest coffeehouse chain is Starbucks. The first Starbucks location was opened in Seattle, Washington, on March 31, 1971.
+
+7) The tallest lighthouse in the world is the Jeddah Light, located in Jeddah, Saudi Arabia. It stands at approximately 436 feet (133 meters) tall. The construction of the Jeddah Light was completed in 1990.
+
+8) The first human spacewalk was conducted during the mission of Voskhod 2, a Soviet spacecraft, on March 18, 1965. The spacewalk was performed by Alexey Leonov. The commander of the Voskhod 2 mission was Pavel Belyayev.
+
+9) Andreas Vesalius, often considered the founder of modern human anatomy, was born on December 31, 1514, in Brussels, part of the Holy Roman Empire (now in Belgium). His father was Anders van Wesel, who served as an apothecary to the Holy Roman Emperor Charles V. Therefore, Anders van Wesel is the father of the founder of modern human anatomy.
+
+10) The atomic number of an element represents the number of protons it has in its atomic nucleus. Hydrogen has an atomic number of 1. An element with an atomic number double that of hydrogen would have an atomic number of 2. That element is Helium.
+
+1+
+2+
+3+
+4+
+5+
+6+
+7+
+8+
+9+
+10+
+
+
+=======================================================================================
+https://chat.lmsys.org/  
+https://github.com/artidoro/qlora
+
+quanaco - 33B   - LLaMA33B fine-tuned with QLoRA by UW   9/10
+
+1)
+The Voyager 2 spacecraft was launched on August 20, 1977, aboard a Titan-Centaur rocket, to study the outer planets of our solar system. Voyager 2 made its closest approach to Uranus on January 24, 1986, at a distance of about 81,500 km (50,600 miles) from the planet's cloud tops. During its flyby, the spacecraft made a number of scientific observations, including the discovery of 10 new moons and two new rings around Uranus.
+
+Voyager 2 also studied the planet's atmosphere, magnetic field, and interior structure, and detected auroral and radio emissions. The spacecraft's findings helped scientists to better understand the properties and characteristics of Uranus, which is the seventh planet from the Sun.
+
+It's important to note that Voyager 2 is still operational and continues to send back valuable scientific data from its journey through the outer solar system. As of 2022, the spacecraft has traveled over 118 billion km (73 billion miles) from Earth and is currently in the outermost layer of the heliosphere, the protective bubble of charged particles and magnetic fields that envelopes our solar system.
+
+2)
+The current record for the fastest air-breathing manned aircraft is held by the Lockheed SR-71 Blackbird. It is a long-range, strategic reconnaissance aircraft that was operated by the United States Air Force from 1964 to 1998.
+
+The Blackbird's maximum speed was 2,200 miles per hour at an altitude of over 80,000 feet. Its speed was a result of its innovative design, which included a highly streamlined airframe, a powerful jet engine, and a special fuel that allowed it to operate at high altitudes. The aircraft also featured a unique "area rule" design, which minimized drag by smoothing the transitions between its wings, fuselage, and other components.
+
+The SR-71 was designed and built by the Lockheed Skunk Works, a division of the Lockheed Corporation. The company's engineers and designers were tasked with creating an aircraft that could operate at high speeds and altitudes, and that could provide valuable intelligence for the United States during the Cold War.
+
+3)
+The founding date of the University of California, Berkeley was on October 13, 1868. Plutonium was discovered there at the university's Radiation Laboratory on December 24, 1940 by Glenn T. Seaborg, Edwin M. McMillan, J. W. Kennedy, and A. C. Wahl.
+
+The discovery of plutonium was made during experiments involving the bombardment of uranium-238 with deuterons. The researchers were trying to create a new element with an atomic number of 93, which would fill a gap in the periodic table between uranium and neptunium. They were successful in producing a new element, which was named "plutonium" after the planet Pluto.
+
+4)
+The capital of the second largest state in the US by area is Juno.
+
+Juno is the capital of the state of Alaska, which is the second largest state in the US by area. Alaska has a total area of over 660,000 square miles (1.7 million km2), and it is located in the northwest region of North America. The state is known for its unique geography, including its vast wilderness, mountain ranges, glaciers, and coastlines. Juno is the largest city in Alaska, with a population of over 320,000 people.
+
+The history of Juno dates back to the 18th century, when Russian explorers first settled in the region. In 1867, the United States purchased Alaska from Russia, and Juno became the capital of the territory. The city grew rapidly in the late 19th century, with the development of the gold rush and the construction of the Alaska Railroad.
+
+Juno is an important hub for business, politics, and culture in Alaska. The city is home to the Alaska State Capitol building, where the state legislature meets, as well as many other government offices. Juno is also a major tourist destination, with a thriving arts and culture scene. Visitors can explore the city's rich history at the Alaska State Museum, the Alaska Native Heritage Center, and the Juno City Museum.
+
+There are many other interesting things to see and do in Juno. The city is known for its beautiful scenery, and visitors can take advantage of the outdoor activities available year-round, including hiking, biking, skiing, and snowboarding. Juno is also a great place to view wildlife, with some of the best opportunities to see moose, bears, and other animals in their natural habitat.
+
+In conclusion, although it may be a lesser known capital than other states, the city of Juno is a vibrant and thriving city with a rich history and culture. It is a great place to visit and experience all that Alaska has to offer.
+
+I hope that this answer provides you with a clear and detailed overview of what you were looking for.
+
+Let me know if you need any more information, or if you have any other questions.
+
+5)
+The second largest volcanic eruption in the 20th century, the 1991 Mount Pinatubo eruption in the Philippines, had a death toll of around 800 people. The eruption caused widespread devastation in the surrounding areas, with thousands of people displaced and homes and crops destroyed.
+
+Mount Pinatubo's eruption was a large-scale event that had a significant impact on the local communities and the environment. The eruption also affected the global climate, with a drop in average temperatures in the years following the eruption due to the large amount of volcanic ash and gases that were released into the atmosphere.
+
+It's important to note that volcanic eruptions can be very dangerous and unpredictable, and it's essential to take precautions and heed warnings from authorities when living in areas where they occur.
+
+6)
+The first location of the world's largest coffeehouse chain was opened in Seattle, Washington, in 1971. The chain was founded by Jerry Baldwin, Gordon Bowker, and Zev Siegl, who named it Starbucks Coffee, Tea and Spice. The name was inspired by the first mate in the book Moby-Dick.
+
+Interestingly, the first Starbucks location was not a typical coffee shop. It was a small store that sold whole coffee beans and coffee-making equipment. It wasn't until 1987, when Howard Schultz joined the company, that the chain began to expand and introduce the now-iconic coffee drinks and cozy coffee shop atmosphere that we know today.
+
+Since then, Starbucks has grown into a global phenomenon with over 30,000 locations worldwide and an estimated 100 million customers per week.
+
+I hope this answers your question. Let me know if you have any other inquiries.
+
+7)
+The tallest lighthouse in the world is the Jeddah Light in Saudi Arabia, which was completed in 2017. The tower has a total height of 133 m (436 ft), including the light's focal plane, which is 131 m (430 ft) above sea level.
+
+The Jeddah Light is a part of the King Abdullah Port, which is one of the largest and busiest ports in the world. The lighthouse is designed to withstand extreme weather conditions, such as high winds and sandstorms, and to provide a highly visible navigation aid for ships entering and leaving the port.
+
+The tower's structure is made of reinforced concrete and steel, and it consists of a central shaft surrounded by a series of rings that get wider as they near the top. The top of the lighthouse is equipped with a high-intensity LED beacon that can be seen up to 25 nautical miles away, making it one of the most powerful lighthouse beacons in the world.
+
+The Jeddah Light is a modern engineering marvel and an important symbol of the port's role as a major hub for international shipping.
+
+8)
+The first spacewalk was performed by Alexei Leonov during the Voskhod 2 mission on March 18, 1965. The commander of the mission, Pavel Belyayev, remained inside the spacecraft while Leonov performed the spacewalk.
+
+9)
+The father of the founder of modern human anatomy was Andreas Vesalius.
+Andreas Vesalius was born in Brussels, Belgium in 1514. His father, Andreas van Wesel, was a successful pharmacist and apothecary.
+Vesalius is considered to be the founder of modern human anatomy. He was a physician and anatomist who was the first to publish a comprehensive and accurate anatomy textbook, titled "De Humani Corporis Fabrica" ("On the Fabric of the Human Body").
+Vesalius's revolutionary work was based on his careful dissection of human bodies and his observations of the anatomy of the human body. He was the first to correct many of the errors in the anatomical knowledge that had been passed down from the time of ancient Greece.
+Vesalius's work had a profound impact on the development of modern medicine. He is considered to be one of the most important figures in the history of medicine.
+
+10)
+The element with an atomic number that is double that of hydrogen is helium (He). Helium has an atomic number of 2.
+
+Helium is a noble gas and is known for its unique properties, including its low density, low reactivity, and high heat conductivity. It is used in a variety of applications, including in medical imaging, aerospace technology, and as a coolant in superconductors.
+
+I hope this answers your question. Let me know if you have any further questions.
+
+1+
+2+
+3+
+4-
+5+
+6+
+7+
+8+
+9+
+10+
