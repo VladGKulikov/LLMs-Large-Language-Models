@@ -13,7 +13,8 @@ Date/Location: May 2023, Zilina, Slovakia
 ---
 
 
-### 2. [LLMs. Learning and reasoning at the Inference stage. Master's thesis. July 2023.](https://github.com/VladGKulikov/My-Masters-Thesis-LLMs-Learning-and-reasoning-at-the-Inference-stage/tree/bf5664955e8a3e029882cf1c5fb99749f3b7dd62)
+### 2. [LLMs. Learning and reasoning at the Inference stage. Master's thesis. July 2023.](https://github.com/VladGKulikov/My-AI-LLMs-articles-publications-master-s-thesis/tree/main/My-Masters-Thesis-LLMs-Learning-and-reasoning-at-the-Inference-stage)
+
 
 MIPT University.  
 Date/Location: July 2023. Moscow. Russia. 
